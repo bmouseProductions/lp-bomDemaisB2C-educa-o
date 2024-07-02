@@ -7,7 +7,7 @@ export default function SectionTwo() {
         <section className="my-10 container mx-auto px-5 md:px-10 xl:px-16 flex flex-col gap-5">
             {/* CARDS */}
             
-            <h2 className='titleFont text-4xl lg:text-5xl uppercase text-center text-[#0062ff] xl:hidden'>
+            <h2 className='titleFont text-4xl lg:text-5xl uppercase text-center text-[#0062ff] '>
                 Nossos planos:
             </h2>
             {/* <Swiper

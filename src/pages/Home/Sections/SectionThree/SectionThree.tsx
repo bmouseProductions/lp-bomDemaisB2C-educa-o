@@ -217,6 +217,14 @@ export default function SectionThree() {
                         </SwiperSlide>
                     ))}
                 </Swiper>
+
+                <a 
+                    className=" w-[250px] md:w-[300px] mt-7 mx-auto py-2 px-7 text-xl md:text-2xl uppercase text-center titleFont rounded-[35px] bg-[#ff4200] text-black"
+                    target='_blank'
+                    href='https://beneficiarios.cartaobomdemais.com.br/contratacao/plano'
+                >
+                    contrate agora
+                </a>
             </div>
        </section>
     )
