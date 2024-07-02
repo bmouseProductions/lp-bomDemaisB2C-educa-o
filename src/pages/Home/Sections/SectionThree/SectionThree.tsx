@@ -159,7 +159,7 @@ const parceiros = [
 
 export default function SectionThree() {
     return (
-       <section className="my-20">
+       <section className="my-10">
             <div 
                 data-aos="zoom-in-up"
                 data-aos-duration="3000"
