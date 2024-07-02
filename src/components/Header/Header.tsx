@@ -21,8 +21,7 @@ export default function Header(){
                             bomd+ é ter até 60% em Universidades e Escolas de Idioma
                         </h1>
                         <p className='text-white text-center lg:text-lg lg:text-start'>
-                            Garanta até 75% off em Exames, Oftalmologia, Odontologia,
-                            Medicamentos, Imunização, Educação, Beleza e Bem-estar.
+                            Chegou a hora de investir no seu futuro.
                         </p>
 
                         <div className='mx-auto lg:mt-5 lg:mx-0'>
