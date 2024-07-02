@@ -2,7 +2,7 @@ import logo from '../../../../assets/images/logoFrente.webp'
 
 export default function SectionFour(){
     return (
-        <section className="py-20 container mx-auto px-5 md:px-10 xl:px-16 text-white">
+        <section className="py-10 container mx-auto px-5 md:px-10 xl:px-16 text-white">
             <div className="pt-10 px-5 h-[700px]  flex flex-col items-center gap-5 rounded-[30px] bg-[#0062ff] bg-banner-form ">
                 <img src={logo} alt="" className='w-[200px] ' />
                 <h2 className="titleFont uppercase text-3xl lg:text-4xl text-center">

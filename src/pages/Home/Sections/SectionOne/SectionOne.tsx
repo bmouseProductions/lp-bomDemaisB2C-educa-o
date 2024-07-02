@@ -3,7 +3,7 @@ import Button from '../../../../components/Button/Button'
 
 export default function SectionOne(){
     return (
-        <section className="py-20">
+        <section className="py-10">
             <div className="container mx-auto px-5 md:px-10 xl:px-16  flex flex-col-reverse lg:flex-row gap-5">
                 <div 
                     data-aos="fade-right" 
